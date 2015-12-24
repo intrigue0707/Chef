@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sqlite-jdbc-3.8.11.2">
+    <CLASSES>
+      <root url="jar://C:/Program Files/SQLLite/sqlite-jdbc-3.8.11.2.jar!/" />
+      <root url="jar://E:/Soft/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://D:/Soft/json-20090211.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Program Files/SQLLite/sqlite-jdbc-3.8.11.2.jar!/" />
+    </SOURCES>
+  </library>
+</component>

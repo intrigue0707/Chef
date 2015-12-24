@@ -1,0 +1,37 @@
+{
+  "Salad": {
+    "Vegetables": {
+      "Tomato": {
+        "Calories": "19"
+      },
+      "Cucumber": {
+        "Calories": "15"
+      },
+      "Cabbage": {
+        "Calories": "31"
+      }
+    },
+    "Fruits": {
+      "Peaches": {
+        "Calories": "44"
+      },
+      "Pear": {
+        "Calories": "42"
+      },
+      "Apple": {
+        "Calories": "46"
+      }
+    },
+    "Grocery": {
+      "Dill": {
+        "Calories": "43"
+      },
+      "Onion": {
+        "Calories": "43"
+      },
+      "Spinach": {
+        "Calories": "21"
+      }
+    }
+  }
+}

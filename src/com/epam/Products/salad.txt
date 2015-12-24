@@ -1,0 +1,3 @@
+|Cabbage|	|Vegetables|	| Weight: 444.0|
+||Cucumber|	|Vegetables|	| Weight: 66.0|
+|
